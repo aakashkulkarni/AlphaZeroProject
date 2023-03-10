@@ -1,5 +1,5 @@
 import numpy as np
-from MCTS import *
+from MonteCarloTreeSearch import *
 
 class TicTacToe:
     def __init__(self):
