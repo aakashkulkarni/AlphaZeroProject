@@ -5,10 +5,10 @@ Purpose: Personal Project
 ```
 This repository holds the source code written mostly in Python for my Alpha Zero project. It uses a neural network trained on game data to make strategic decisions. It uses the AlphaZero framework defined under Monte Carlo Tree Search to apply the neural network to a variety of games such as TicTacToe, Connect Four, and Chess.
 
-This is based on Google's AlphaGo and AlphaZero models, however it's much simpler and uses TensorFlow's API to create the models.
+This is based on Google's AlphaGo and AlphaZero models, however it's much simpler and uses PyTorch API to create the models.
 
 ### Concepts Learned
-1. Using TensorFlow library in Python to define a simple feed-forward neural network
+1. Using PyTorch library in Python to define a simple feed-forward neural network
 2. Implementing TicTacToe from scratch and allowing computer to play itself
 3. Implementing Monte Carlo Tree Search recursively and integrating it with a game module
 
